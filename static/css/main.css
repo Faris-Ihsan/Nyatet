@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: Helvetica;
+}
+
+.badan {
+    background-color: antiquewhite;
+}
+
+.content {
+    background-color: bisque;
+    width: 300px;
+    margin-bottom: 5em;
+}
